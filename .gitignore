@@ -56,3 +56,5 @@ build/
 **/yarn-debug.log*
 **/yarn-error.log*
 
+node
+
